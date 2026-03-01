@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.vortex" name="Vortex" version="1.0.1" provider-name="">
+<addon id="plugin.video.vortex" name="Vortex" version="1.0.2" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -12,7 +12,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">Dynamic token updating, Any problems hit refresh, A VPN is your friend, Forked with permission from the original developer</description>
+	<description lang="en_GB">Dynamic token updating-Any problems hit refresh-A VPN is your friend-Forked with permission from the original developer</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
