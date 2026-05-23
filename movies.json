@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Inception",
+    "url": "https://example.com/movies/inception.mp4",
+    "thumbnail": "https://image.tmdb.org/t/p/original/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn5Y3ODCmDsIB2.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "url": "https://example.com/movies/matrix.mkv",
+    "thumbnail": "https://example.com/posters/matrix.jpg",
+    "fanart": "https://example.com/backdrops/matrix_bg.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "url": "plugin://plugin.video.something/?action=play&id=456",
+    "thumbnail": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg"
+  }
+]
