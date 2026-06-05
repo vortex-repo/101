@@ -10,7 +10,7 @@
     "TV Pass": "https://raw.githubusercontent.com/BuddyChewChew/buddylive_v2/refs/heads/main/en/videoall.m3u",
     "US TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u",
     "V.O.D": "https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/movies.json",
-    "Vortex": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
+    "Vortex*": "https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/vortex.m3u",
     "Xumo TV": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u"
   },
   "blocked_keywords": [
