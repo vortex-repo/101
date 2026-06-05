@@ -257,8 +257,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1, The Weather Channel
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
 #EXTINF:-1, TLC
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
 #EXTINF:-1, TNT
