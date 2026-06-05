@@ -12,15 +12,15 @@
     "fanart": "https://image.tmdb.org/t/p/original/xSaHpvDlDrndLeQB81isPEuge38.jpg"
   },
   {
-    "title": "The Matrix",
-    "url": "https://example.com/movies/matrix.mkv",
-    "thumbnail": "https://example.com/posters/matrix.jpg",
-    "fanart": "https://example.com/backdrops/matrix_bg.jpg"
+    "title": "In The Grey",
+    "url": "https://streamtape.com/v/yle30XPKjgF1b6q/In.The.Grey.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bIy0555ukSqweSqG9MtRnoyisQI.jpg"
   },
   {
-    "title": "Interstellar",
+    "title": "Is God Is",
     "url": "plugin://plugin.video.something/?action=play&id=456",
-    "thumbnail": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg"
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/e7NygxiX8rTsHWthLc4zvwLzson.jpg"
   }
 ]
