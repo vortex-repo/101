@@ -1,6 +1,6 @@
 {
   "playlist_sources": {
-    "LG Channels*": "https://raw.githubusercontent.com/BuddyChewChew/lg-playlist-generator/refs/heads/main/lg_channels_us.m3u",
+    "LG Channels": "https://raw.githubusercontent.com/BuddyChewChew/lg-playlist-generator/refs/heads/main/lg_channels_us.m3u",
     "Plex TV": "https://raw.githubusercontent.com/BuddyChewChew/plex/refs/heads/main/playlists/plex_gb.m3u",
     "Rakuten TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_rakuten.m3u",
     "Roku TV": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
