@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.vortex" name="Vortex" version="1.1.8" provider-name="">
+<addon id="plugin.video.vortex" name="Vortex" version="1.2.0" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
