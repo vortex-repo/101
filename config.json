@@ -21,7 +21,7 @@
     "\\[[^\\]]*\\]"
   ],
   "cache_duration": 43200,
-  "movie_cache_duration": 21600,
+  "movie_cache_duration": 3600,
   "max_title_length": 40,
   "token_validity": 3600
 }
