@@ -197,6 +197,12 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/351.ts
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, Nicktoons
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1223.ts
+#EXTINF:-1, Now 70s
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, Now 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, Now Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, Ovation
