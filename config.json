@@ -6,7 +6,8 @@
     "Rakuten TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_rakuten.m3u",
     "Roku TV": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
     "Samsung TV": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_gb.m3u",
-    "SS TV UK": "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/src/ss_gb.m3u"
+    "SS TV UK": "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/src/ss_gb.m3u",
+    "SS TV US": "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/src/ss_us.m3u",
     "TCL TV+": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
     "Tubi TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_tubi.m3u",
     "TV Pass": "https://raw.githubusercontent.com/BuddyChewChew/buddylive_v2/refs/heads/main/en/videoall.m3u",
