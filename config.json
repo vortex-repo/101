@@ -6,13 +6,13 @@
     "Rakuten TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_rakuten.m3u",
     "Roku TV": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
     "Samsung TV": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_gb.m3u",
+    "SS TV UK": "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/src/ss_gb.m3u"
     "TCL TV+": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
     "Tubi TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_tubi.m3u",
     "TV Pass": "https://raw.githubusercontent.com/BuddyChewChew/buddylive_v2/refs/heads/main/en/videoall.m3u",
     "US TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u",
     "Vortex": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
-    "Xumo TV": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",
-    "Test": "https://raw.githubusercontent.com/Cnmajun/IptvSync/refs/heads/main/src/ss_gb.m3u"
+    "Xumo TV": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u"
   },
   "blocked_keywords": [
     "gettv","mlb","nba","nfl","nhl","ppv","sky arts","sky mix","sportsman","pluto","&TV","[Not 24/7]","[Geo-blocked]","Fox News Channel","FETV","Opportunities","Village of Hastings-On-Hudson NY (WHOH-TV)","WVCU-LP Concord University Radio The Cure 97.7","24Kitchen Serbia","6 Wise Tv","vs","New K.Movies","RomCom K-Drama","Lighting Lives","iHeart","-"," at "
