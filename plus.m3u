@@ -91,6 +91,8 @@ https://jmp2.uk/stvp-IN270000230
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1, Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, FX
@@ -123,6 +125,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1, MSG Sportszone
+https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, MyTime Movies
@@ -157,6 +161,8 @@ https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, Reuters
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
+#EXTINF:-1, Rugby Pass
+https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, Screambox TV
 https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, SEC Network
