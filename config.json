@@ -16,8 +16,6 @@
     "Vortex+": "https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/plus.m3u",
     "Xumo TV": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",
     "Settings": "ActivateWindow(AddonSettings, inputstream.adaptive, return)"
-  }
-
   },
   "blocked_keywords": [
     "gettv",
@@ -49,8 +47,8 @@
     " at "
   ],
   "title_block_patterns": [
-    "\\\\([^)]*\\\\)",
-    "\\\\[[^\\\\]]*\\\\]"
+    "\\([^)]*\\)",
+    "\\[[^\\]]*\\]"
   ],
   "cache_duration": 43200,
   "movie_cache_duration": 3600,
