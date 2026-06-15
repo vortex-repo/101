@@ -95,8 +95,6 @@ http://41.205.93.154/ESPN/index.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
-#EXTINF:-1, F1 Channel
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/playlist.m3u8
 #EXTINF:-1, Free Movies Plus
 https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1, FIFA+ TV
@@ -121,6 +119,8 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1, HBO Movies
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/23299.m3u8
 #EXTINF:-1, HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, Hersphere
