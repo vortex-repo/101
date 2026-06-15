@@ -209,6 +209,8 @@ https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1, TBS
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15954.m3u8
+#EXTINF:-1, TBS East
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15954.ts
 #EXTINF:-1, The Asylum
 https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8
 #EXTINF:-1, The Beverly Hillbillies
