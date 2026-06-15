@@ -127,6 +127,8 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1, Lone Star
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, MMA TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1, MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, MSG Sportszone
@@ -147,6 +149,8 @@ https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/am
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1, Nitro
+https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
 #EXTINF:-1, Now 70s
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, Now 80s
