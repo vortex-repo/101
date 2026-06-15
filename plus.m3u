@@ -167,6 +167,8 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1, PGA Tour
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
+#EXTINF:-1, Powertube
+https://streams2.sofast.tv/powertube_live/master.m3u8
 #EXTINF:-1, Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1, Reuters
