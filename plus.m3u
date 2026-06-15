@@ -202,7 +202,7 @@ https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
 #EXTINF:-1, TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, truTV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1, Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, UFC
