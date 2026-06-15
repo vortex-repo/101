@@ -157,8 +157,8 @@ https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, Now Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1, Outersphere
-https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
+#EXTINF:-1, Outervision
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
 #EXTINF:-1, Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, Paramount Network
