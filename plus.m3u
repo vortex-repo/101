@@ -137,6 +137,8 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1, Lone Star
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1, MMA TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1, Moviesphere
@@ -181,8 +183,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
 #EXTINF:-1, Powertube
 https://streams2.sofast.tv/powertube_live/master.m3u8
+#EXTINF:-1, Rally TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1, Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1, Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?profile=inspirationLinks.m3u8
 #EXTINF:-1, Reuters
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
 #EXTINF:-1, Rugby Pass
