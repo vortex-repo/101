@@ -3,6 +3,8 @@
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1, Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1, Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, Alien Nation
@@ -223,16 +225,14 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 #EXTINF:-1, Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1, TBS
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15954.m3u8
-#EXTINF:-1, TBS East
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15954.ts
 #EXTINF:-1, The Asylum
 https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8
 #EXTINF:-1, The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
 #EXTINF:-1, TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1, truTV
