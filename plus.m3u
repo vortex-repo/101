@@ -119,8 +119,6 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1, HBO Movies
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/23299.m3u8
 #EXTINF:-1, HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, Hersphere
