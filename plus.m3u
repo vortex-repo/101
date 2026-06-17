@@ -161,6 +161,8 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1, Mythbusters
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1, MyTime Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
 #EXTINF:-1, National Geographic
