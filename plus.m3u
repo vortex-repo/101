@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, 5 Cops
+https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1, A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ACC Network
