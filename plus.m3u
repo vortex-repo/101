@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, 5 Cops
-https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1, A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ACC Network
@@ -47,8 +45,6 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, CBS New York
 http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
-#EXTINF:-1, CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1, Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1, Cinevault
@@ -147,8 +143,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1, Married With Children
-https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1, Miramax Movies
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1, MMA TV
