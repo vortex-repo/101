@@ -65,15 +65,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1, Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1, Crave Movies 1
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/40656.m3u8
-#EXTINF:-1, Crave Movies 2
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/40655.m3u8
-#EXTINF:-1, Crave Movies 3
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/40654.m3u8
-#EXTINF:-1, Crave Movies 4
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/40653.m3u8
-#EXTINF:-1, Crime & Investigation Network
+#EXTINF:-1, Crime & Inv Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1, Dazn Ringside
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
