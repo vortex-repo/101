@@ -15,6 +15,8 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1, Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:-1, BBC Adventure
+https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8
 #EXTINF:-1, BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, BBC Drama
