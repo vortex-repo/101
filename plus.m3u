@@ -99,6 +99,8 @@ https://jmp2.uk/stvp-IN270000230
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1, Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1, FTF Live
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1, Fubo Sports
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, FUSE
