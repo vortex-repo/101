@@ -155,16 +155,18 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1, MyTime Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
+#EXTINF:-1, Nascar
+https://apollo-eks.production-public.tubi.io/live/nascar-qQFOMb.m3u8
 #EXTINF:-1, National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1, NBA TV
-http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, Newsmax N2
 https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-lgus/playlist.m3u8
 #EXTINF:-1, Nesn
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, NHRA
+https://apollo-eks.production-public.tubi.io/live/nhra-tv-z9tGXs.m3u8
 #EXTINF:-1, Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, Nitro
