@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Movies",
+    "type": "directory",
+    "is_dir": true,
+    "link": "https://example.com/movies.json",
+    "thumbnail": "https://example.com/movies.png",
+    "fanart": "https://example.com/fanart.jpg",
+    "summary": "Browse all movies",
+    "genre": "All",
+    "year": "2024",
+    "rating": "8.5"
+  },
+  {
+    "title": "TV Shows",
+    "type": "directory",
+    "is_dir": true,
+    "link": "https://example.com/tvshows.json",
+    "thumbnail": "https://example.com/tvshows.png"
+  },
+  {
+    "title": "External Addon",
+    "type": "external_addon",
+    "addon_id": "plugin.video.youtube",
+    "addon_path": "channel/UC123456",
+    "addon_params": {
+      "param1": "value1",
+      "param2": "value2"
+    },
+    "thumbnail": "https://example.com/external.png"
+  }
+]
