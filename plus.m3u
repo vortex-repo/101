@@ -177,6 +177,8 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/am
 https://apollo-eks.production-public.tubi.io/live/nhra-tv-z9tGXs.m3u8
 #EXTINF:-1, Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1, Nick Jnr
+http://40.160.24.55/NICK_JR/index.m3u8
 #EXTINF:-1, Nitro
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
 #EXTINF:-1, Outdoor Channel
