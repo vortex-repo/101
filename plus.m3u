@@ -13,6 +13,8 @@ https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1, Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, Antenna
+http://206.212.244.63/10/index.m3u8
 #EXTINF:-1, Aspire
 http://206.212.244.63/10/index.m3u8
 #EXTINF:-1, AXS TV
