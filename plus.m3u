@@ -44,7 +44,7 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, Bounce TV
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+http://206.212.244.63/23/index.m3u8
 #EXTINF:-1, Bravo TV
 http://206.212.244.63/26/index.m3u8
 #EXTINF:-1, BritBox Mysteries
