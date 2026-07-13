@@ -133,6 +133,8 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1, Hersphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1, History Channel
+http://206.212.244.63/91/index.m3u8
 #EXTINF:-1, HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1, Horror By Alter
@@ -175,7 +177,7 @@ https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/am
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, NHRA
 https://apollo-eks.production-public.tubi.io/live/nhra-tv-z9tGXs.m3u8
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1, Nick
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1, Nick Jnr
 http://40.160.24.55/NICK_JR/index.m3u8
