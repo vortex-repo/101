@@ -51,6 +51,8 @@ http://206.212.244.63/26/index.m3u8
 https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
 #EXTINF:-1, Buzzr
 http://206.212.244.63/27/index.m3u8
+#EXTINF:-1, Byu TV
+http://206.212.244.63/28/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, CBS News 24/7
