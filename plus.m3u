@@ -69,6 +69,8 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1
 https://wurlgameshownetwork.global.transmit.live/hls/68d16fc891b992ec0d46bfe0/v1/gsn_cinevault_classics_2/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, Cinevault Westerns
 https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Circle Country
+http://206.212.244.63/37/index.m3u8
 #EXTINF:-1, CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1, CNBC
