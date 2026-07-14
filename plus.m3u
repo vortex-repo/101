@@ -55,6 +55,8 @@ http://206.212.244.63/27/index.m3u8
 http://206.212.244.63/28/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1, CBS
+http://206.212.244.63/32/index.m3u8
 #EXTINF:-1, CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, CBS New York
