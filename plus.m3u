@@ -96,7 +96,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/p
 #EXTINF:-1, Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1, Discovery Science
-http://206.212.244.63/650/index.m3u8
+http://206.212.244.63/55/index.m3u8
 #EXTINF:-1, Disney
 http://206.212.244.63/650/index.m3u8
 #EXTINF:-1, Disney Jr
@@ -145,12 +145,14 @@ https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1, Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1, Hallmark Family
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1, Hallmark Mystery
+http://206.212.244.63/86/index.m3u8
 #EXTINF:-1, Haunt TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
 #EXTINF:-1, HBO
 http://40.160.24.53/HBO_HD/index.m3u8
-#EXTINF:-1, HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1, HBO Boxing
 https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
 #EXTINF:-1, HBO Comedy
@@ -181,12 +183,16 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1, MMA TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1, Motortrend
+http://206.212.244.63/113/index.m3u8
 #EXTINF:-1, Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1, MSG Sportszone
 https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, MSNBC
+http://206.212.244.63/114/index.m3u8
 #EXTINF:-1, MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1, Mythbusters
@@ -195,8 +201,10 @@ https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
 #EXTINF:-1, Nascar
 https://apollo-eks.production-public.tubi.io/live/nascar-qQFOMb.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1, Nat Geo
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://206.212.244.63/123/index.m3u8
 #EXTINF:-1, NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, Newsmax N2
