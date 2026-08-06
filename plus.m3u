@@ -131,6 +131,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstri
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1, FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1, FXM
+http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1, FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1, GB News
