@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, A&E TV
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1, ABC TV
 http://stream.cammonitorplus.net/1790/index.m3u8
 #EXTINF:-1, ACC Network
-http://23.237.104.106:8080/USA_ACCN/mpegts
+http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1, Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1, AHC
@@ -24,7 +22,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus
 #EXTINF:-1, BBC Adventure
 https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8
 #EXTINF:-1, BBC America
-http://206.212.244.63/13/index.m3u8
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1, BBC Drama
 https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
 #EXTINF:-1, BBC News
@@ -44,19 +42,17 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1, Bounce TV
-http://206.212.244.63/23/index.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1, Bravo TV
-http://206.212.244.63/26/index.m3u8
+http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BritBox Mysteries
 https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
 #EXTINF:-1, Buzzr
-http://206.212.244.63/27/index.m3u8
-#EXTINF:-1, Byu TV
-http://206.212.244.63/28/index.m3u8
+https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1, Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1, CBS
-http://206.212.244.63/32/index.m3u8
+http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1, CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1, CBS New York
