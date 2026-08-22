@@ -149,8 +149,8 @@ http://206.212.244.63/85/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1, Haunt TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
-#EXTINF:-1, HBO
-http://40.160.24.53/HBO_HD/index.m3u8
+#EXTINF:-1, HBO*
+https://d9.goaltend.xyz/channel/12372
 #EXTINF:-1, HBO Boxing
 https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
 #EXTINF:-1, HBO Comedy
