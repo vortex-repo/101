@@ -197,24 +197,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/p
 https://apollo-eks.production-public.tubi.io/live/nascar-qQFOMb.m3u8
 #EXTINF:-1, Nat Geo
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1, Nat Geo Wild
-http://206.212.244.63/123/index.m3u8
-#EXTINF:-1, NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1, Newsmax N2
 https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-lgus/playlist.m3u8
-#EXTINF:-1, Nesn
-https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1, NHRA
-https://apollo-eks.production-public.tubi.io/live/nhra-tv-z9tGXs.m3u8
 #EXTINF:-1, Nick
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1, Nick Jnr
-http://40.160.24.55/NICK_JR/index.m3u8
 #EXTINF:-1, Nitro
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
-#EXTINF:-1, Outdoor Channel
-http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1, Pac12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, Paramount Network
@@ -239,18 +227,12 @@ https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/worl
 https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1, Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1, Shout! Movies
 https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8
 #EXTINF:-1, Shudder
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1, SNY
-https://gpuserver5.tier1streams.com/SNY/index.m3u8
 #EXTINF:-1, Sony Action
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:-1, Smithsonian Channel
-http://206.212.244.63/148/index.m3u8
 #EXTINF:-1, Space Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1, Stadium
