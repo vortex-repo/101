@@ -279,12 +279,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1, truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1, TSN 1
-http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1, TV Land
-http://40.160.24.55/TV_LAND/index.m3u8
-#EXTINF:-1, TV One
-http://40.160.24.55/TV_ONE/index.m3u8
 #EXTINF:-1, UFC
 https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
 #EXTINF:-1, Universal Action
@@ -311,8 +305,6 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1, Willow
-http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1, WSN
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
 #EXTINF:-1, Xite 90s
