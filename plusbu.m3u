@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1, ABC TV
+http://stream.cammonitorplus.net/1790/index.m3u8
+#EXTINF:-1, ACC Network
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1, Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1, AHC
+http://206.212.244.63/6/index.m3u8
+#EXTINF:-1, Alien Nation
+https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
+#EXTINF:-1, AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1, Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1, Aspire
+http://206.212.244.63/10/index.m3u8
+#EXTINF:-1, AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1, Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:-1, BBC Adventure
+https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8
+#EXTINF:-1, BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1, BBC Drama
+https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
+#EXTINF:-1, BBC News
+https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1, BET
+http://206.212.244.63/16/index.m3u8
+#EXTINF:-1, Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1, Billiard TV
+https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
+#EXTINF:-1, Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1, Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1, Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1, Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1, Bravo TV
+http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BritBox Mysteries
+https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
+#EXTINF:-1, Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1, CBS
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1, CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1, CBS New York
+http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1, Cinevault
+https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Cinevault Classics
+https://wurlgameshownetwork.global.transmit.live/hls/68d16fc891b992ec0d46bfe0/v1/gsn_cinevault_classics_2/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Cinevault Westerns
+https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Circle
+http://206.212.244.63/37/index.m3u8
+#EXTINF:-1, CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1, CNBC
+http://206.212.244.63/41/index.m3u8
+#EXTINF:-1, CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1, Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1, Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1, Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1, Cozi TV
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1, Crime & Inv Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1, Dazn Ringside
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
+#EXTINF:-1, Declassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+#EXTINF:-1, Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1, Discovery Science
+http://206.212.244.63/55/index.m3u8
+#EXTINF:-1, Disney
+http://206.212.244.63/650/index.m3u8
+#EXTINF:-1, Disney Jr
+http://206.212.244.63/655/index.m3u8
+#EXTINF:-1, Doctor Who
+https://wurlbbcstudiosamericas.global.transmit.live/hls/694045c2879067a71cc92e65/playlist.m3u8
+#EXTINF:-1, Dove Channel
+https://linear-896.frequency.stream/dist/lg-us/896/hls/master/playlist.m3u8
+#EXTINF:-1, E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1, ESPN 
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1, ESPN 2
+http://41.223.30.230/ESPN2/index.m3u8
+#EXTINF:-1, ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1, Free Movies Plus
+https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
+#EXTINF:-1, FIFA+ TV
+https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1, Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1, Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1, Freeform TV
+http://206.212.244.63/69/index.m3u8
+#EXTINF:-1, FTF Live
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1, Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+#EXTINF:-1, FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1, FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1, FXM
+http://40.160.24.52/FXM/index.m3u8
+#EXTINF:-1, FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1, GB News
+https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+#EXTINF:-1, Ghost Hunters
+https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Glory Kickboxing
+https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1, Grit TV
+http://206.212.244.63/83/index.m3u8
+#EXTINF:-1, Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1, Hallmark Family
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1, Hallmark Mystery
+http://206.212.244.63/86/index.m3u8
+#EXTINF:-1, Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
+#EXTINF:-1, HBO*
+https://d9.goaltend.xyz/channel/12372
+#EXTINF:-1, HBO Boxing
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
+#EXTINF:-1, HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1, HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1, Hersphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1, History Channel
+http://206.212.244.63/91/index.m3u8
+#EXTINF:-1, HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1, Horror By Alter
+https://linear-874.frequency.stream/dist/lg-us/874/hls/master/playlist.m3u8
+#EXTINF:-1, HUTH
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Ion TV
+http://206.212.244.63/99/index.m3u8
+#EXTINF:-1, LiveNow
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1, LMN
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1, Lone Star
+https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1, Miramax Movies
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1, MMA TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1, Motortrend
+http://206.212.244.63/113/index.m3u8
+#EXTINF:-1, Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1, MSG Sportszone
+https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, MSNBC
+http://206.212.244.63/114/index.m3u8
+#EXTINF:-1, MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1, Mythbusters
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+#EXTINF:-1, MyTime Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
+#EXTINF:-1, Nascar
+https://apollo-eks.production-public.tubi.io/live/nascar-qQFOMb.m3u8
+#EXTINF:-1, Nat Geo
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://206.212.244.63/123/index.m3u8
+#EXTINF:-1, NBC Sports NOW
+https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1, Newsmax N2
+https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-lgus/playlist.m3u8
+#EXTINF:-1, Nesn
+https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, NHRA
+https://apollo-eks.production-public.tubi.io/live/nhra-tv-z9tGXs.m3u8
+#EXTINF:-1, Nick
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1, Nick Jnr
+http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1, Nitro
+https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
+#EXTINF:-1, Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1, Pac12 Insider
+https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1, PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1, PFL
+https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1, PGA Tour
+https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
+#EXTINF:-1, Powertube
+https://streams2.sofast.tv/powertube_live/master.m3u8
+#EXTINF:-1, Rally TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1, Reelz Channel
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1, Reuters
+https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
+#EXTINF:-1, Rugby Pass
+https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Screambox TV
+https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1, Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1, Shout! Movies
+https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8
+#EXTINF:-1, Shudder
+https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, SNY
+https://gpuserver5.tier1streams.com/SNY/index.m3u8
+#EXTINF:-1, Sony Action
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1, Smithsonian Channel
+http://206.212.244.63/148/index.m3u8
+#EXTINF:-1, Space Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1, Stadium
+https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1, Swerve Combat
+https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
+#EXTINF:-1, Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1, Thats 70s
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, Thats 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, Thats Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, The Asylum
+https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8
+#EXTINF:-1, The Beverly Hillbillies
+https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
+#EXTINF:-1, TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1, truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1, TSN 1
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1, TV Land
+http://40.160.24.55/TV_LAND/index.m3u8
+#EXTINF:-1, TV One
+http://40.160.24.55/TV_ONE/index.m3u8
+#EXTINF:-1, UFC
+https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
+#EXTINF:-1, Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
+#EXTINF:-1, Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+#EXTINF:-1, Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+#EXTINF:-1, USA
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1, Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1, Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1, Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1, Vevo Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1, VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1, Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1, Unbeaten
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1, Willow
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1, WSN
+https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
+#EXTINF:-1, Xite 90s
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1, YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
