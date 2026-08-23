@@ -149,8 +149,11 @@ http://206.212.244.63/85/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1, Haunt TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
-#EXTINF:-1, HBO*
-https://d9.goaltend.xyz/channel/12372
+#EXTINF:-1 tvg-chno="81" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/apexstreams3.php?id=321
+#EXTVLCOPT:http-origin=https://hamis.romponalis.st/premiumtv/apexstreams3.php?id=321
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://xameleon.phantemlis.top/three/secure/587f938bb7cb575b7d9cfad645be9234/1787471990/premium321/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO Boxing
 https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
 #EXTINF:-1, HBO Comedy
