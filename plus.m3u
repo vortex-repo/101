@@ -273,6 +273,8 @@ https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1, WSN
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
+#EXTINF:-1, Xite 80s
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 #EXTINF:-1, Xite 90s
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1, YES Network
