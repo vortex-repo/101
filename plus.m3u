@@ -271,6 +271,8 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1, Wild West TV
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
 #EXTINF:-1, Willow
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1, WSN
