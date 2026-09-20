@@ -5,6 +5,7 @@
     "Rakuten TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_rakuten.m3u",
     "Roku TV": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
     "Samsung": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_gb.m3u",
+    "Stingray": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u",
     "Stirr": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_stirr.m3u",
     "TCL TV+": "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
     "Tubi TV": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_tubi.m3u",
