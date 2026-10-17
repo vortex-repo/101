@@ -106,7 +106,7 @@
         </assets>
 	</extension>
 </addon>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="3.0.2">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="3.0.4">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <!--<import addon="script.thx.metadata" />-->
@@ -127,8 +127,8 @@
     <extension library="service.py" point="xbmc.service" start="startup" />
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <summary lang="en_GB">THX 1138 Reborn with permission from the original developer</summary>
-        <description lang="en_GB"></description>
+        <summary lang="en_GB">THX 1138</summary>
+        <description lang="en_GB">Reborn with permission from the original developer</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum />
