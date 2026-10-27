@@ -11,3 +11,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+
+<plugin>
+<title>[COLORwhite]Free Shows[/COLOR]</title>
+<link>plugin://plugin.video.vortex/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
