@@ -18,3 +18,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+
+<dir>
+<title>[COLORwhite]Debrid Movies[/COLOR]</title>
+<link>plugin://plugin.video.tvfree/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
