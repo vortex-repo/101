@@ -21,7 +21,7 @@
 
 <dir>
 <title>[COLORwhite]Debrid Movies[/COLOR]</title>
-<link>plugin://plugin.video.tvfree/</link>
+<link>https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/debrid.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
