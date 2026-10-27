@@ -1,16 +1,16 @@
-<dir>
-<title>[COLORwhite]Free Movies[/COLOR]</title>
-<link>plugin://plugin.video.funko</link>
+<plugin>
+<title>[COLORwhite]Free Movies*[/COLOR]</title>
+<link>plugin://plugin.video.funko/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
 
-<dir>
+<plugin>
 <title>[COLORwhite]Free TV[/COLOR]</title>
-<link>plugin://plugin.video.funko</link>
+<link>plugin://plugin.video.vortex/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
 
 <dir>
 <title>[COLORwhite]Replays[/COLOR]</title>
