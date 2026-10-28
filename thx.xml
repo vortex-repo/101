@@ -21,7 +21,7 @@
 
 <plugin>
 <title>[COLORwhite]Debrid Movies[/COLOR]</title>
-<link>plugin://plugin.video.legacy</link>
+<link>plugin://plugin.video.legacy/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
