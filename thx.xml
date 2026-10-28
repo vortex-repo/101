@@ -19,9 +19,9 @@
 <fanart></fanart>
 </plugin>
 
-<dir>
+<plugin>
 <title>[COLORwhite]Debrid Movies[/COLOR]</title>
-<link>https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/debrid.xml</link>
+<link>plugin://plugin.video.legacy</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
