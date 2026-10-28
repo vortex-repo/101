@@ -1,1 +1,394 @@
-test
+[
+  {
+    "title": "Nikola Tesla 19hz",
+    "urls": [
+      "magnet:?xt=urn:btih:034E9E7A37C569D45C7FBA9303343488AE90F1EF"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/xSeVQyAzEUNd4LQgx2G7yUPrPS4.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vSbLkXcxqt6BPMUGfjE2jJZ9x3o.jpg"
+  },
+  {
+    "title": "Ali G: Who Iz I?",
+    "urls": [
+      "magnet:?xt=urn:btih:5942230371C136EB2C26B3B3A7283A4C919DC8B8"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/e3ESx7vDyYgCO9vPMtF6NFl5pLM.jpg"
+  },
+  {
+    "title": "Sense And Sensibility",
+    "urls": [
+      "magnet:?xt=urn:btih:2ECA759448FBCC6883336E35F2519944FA98BF4A"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg"
+  },
+  {
+    "title": "The Stunt Driver",
+    "urls": [
+      "magnet:?xt=urn:btih:F03AC042F246C9493818FC51430F13A8D30BE9A3"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/5e67ofJqBUK9GlIIPlNalbm8PLn.jpg"
+  },
+  {
+    "title": "Verity",
+    "urls": [
+      "magnet:?xt=urn:btih:074432D425B663A2A39D6447B82A301606746DE2"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg"
+  },
+  {
+    "title": "Forgotten Island",
+    "urls": [
+      "magnet:?xt=urn:btih:C60BBF6976770EB941E1160EE17427FB7CA58714"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+  },
+  {
+    "title": "The Cycle",
+    "urls": [
+      "magnet:?xt=urn:btih:B2CF2E424FEFA60FBF49C51E7CEB5BD97A09A474"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg"
+  },
+  {
+    "title": "The Dog Stars",
+    "urls": [
+      "magnet:?xt=urn:btih:A6C3A97EAE38FC17DBDBE19D065E4695E9547F5D"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/joVtII9prX3MC4a2LfoKsiMWET3.jpg"
+  },
+  {
+    "title": "Shaun The Sheep",
+    "urls": [
+      "magnet:?xt=urn:btih:2C33C6D49482E497AE5D3C1FF3B90BDE41C47951"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wX3cKcPeJmeduIl7h9npw6oo6ld.jpg"
+  },
+  {
+    "title": "Top Gun (RIP Viper)",
+    "urls": [
+      "magnet:?xt=urn:btih:FFFD5C4A4A8E232DF41197FD0BCE50AE474EF14E"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+  },
+  {
+    "title": "Remembrance",
+    "urls": [
+      "magnet:?xt=urn:btih:9DAC69388CD4176B2D69BD2C5CF48D2D0C8F878F"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/eFbYdDFSl7xNKuTwfVnPV5XNTxG.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fo8kliLYhtjBXEfM06qMvyA8pp5.jpg"
+  },
+  {
+    "title": "The Florist",
+    "urls": [
+      "magnet:?xt=urn:btih:063FFFC10A7CB75D6915E642096155CCADE70604"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg"
+  },
+  {
+    "title": "Deadlocked: Dad Of The Dead",
+    "urls": [
+      "magnet:?xt=urn:btih:78BF8BE0E7EEC04BAAD79C3111321E862C038461"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/gWeUbgZvrfbEFYra8omnqJQJZid.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jfnaqNQqZhXs7ytFNGFOunwpJ1R.jpg"
+  },
+  {
+    "title": "Red Days 2: Cecilia",
+    "urls": [
+      "magnet:?xt=urn:btih:4429284234F384832BED886EC195791EC567164C"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/6lYxc12B9uidBY3pG1ZSHeFDg7E.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/z24BilCLqrJ3jtaP8YdDfR4NylA.jpg"
+  },
+  {
+    "title": "Tiny Fugitives",
+    "urls": [
+      "magnet:?xt=urn:btih:093697A05EB90ECFDF073D37FF0E60737D9720A0"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dWuKeIxbWszZgnxtQYw9vH8mw6h.jpg"
+  },
+  {
+    "title": "Hanging By A Wire",
+    "urls": [
+      "magnet:?xt=urn:btih:3568F7025E345249A92767C39A41B2752DCF3494"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/q90G7OV76xR7NOHu8m19iaudHO1.jpg"
+  },
+  {
+    "title": "Crawlers",
+    "urls": [
+      "magnet:?xt=urn:btih:320166D5B1C67101279E5F1ADF8A0E8C1692CC43"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg"
+  },
+  {
+    "title": "The Leaching",
+    "urls": [
+      "magnet:?xt=urn:btih:FE38118B5514474C8B483028CD64D565A6BFB7B0"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/8xdLmP9ksISVyNg0kKUlI3DWtQg.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sH85TD7mzEErRQhbodSP1hBkMdw.jpg"
+  },
+  {
+    "title": "Sacrifice",
+    "urls": [
+      "magnet:?xt=urn:btih:B51D96637F955F6BFDF9D03392F565155536FB6C"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dkQ95ve1iEyt738io4AJOmQgijJ.jpg"
+  },
+  {
+    "title": "Night Terror",
+    "urls": [
+      "magnet:?xt=urn:btih:9A19B72F95D1B6C26CA14FA5DA5988D0E43C2405"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/u4ZAO2HkmuPbxfKvhluNpSOcGDl.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zYNTnMWNRb8HclBAw69XtFMxHFq.jpg"
+  },
+  {
+    "title": "Bad Apples",
+    "urls": [
+      "magnet:?xt=urn:btih:05DAD1E6AA8476A26EBCAA2734C6DA5F9A1234EB"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg"
+  },
+  {
+    "title": "Love Of Your Life",
+    "urls": [
+      "magnet:?xt=urn:btih:78A5B8C7CE62D768150725690DFF13BF803A54E7"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg"
+  },
+  {
+    "title": "In The Company Of Wolves",
+    "urls": [
+      "magnet:?xt=urn:btih:2CF6D40894FF739CB8774F98ABC279B9BC58D59A"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/6sLHJk5KNgqTGKhQ4hRabvG18HU.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kesgjZm8OdrpBUIDaFrT5ZIaJyj.jpg"
+  },
+  {
+    "title": "Clean Hands",
+    "urls": [
+      "magnet:?xt=urn:btih:EFDF5F8FC8294D9A3935BDD0AEAF851FEF87F01B"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vNUToHrHkE9OvRsv8MyBYdm2QJN.jpg"
+  },
+  {
+    "title": "Tenzing",
+    "urls": [
+      "magnet:?xt=urn:btih:FDE16762B3DEA55A78950E6CC7E9F8DE39951C73"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg"
+  },
+  {
+    "title": "Masterplan",
+    "urls": [
+      "magnet:?xt=urn:btih:65D2CA1DC15C93998F960F98D3047A4D2A8C6F76"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg"
+  },
+  {
+    "title": "Buddy",
+    "urls": [
+      "magnet:?xt=urn:btih:3DD015EFAAB3BB9682C62A764E70C7493307B915"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/rCNcPpG9EhXkYtI7jAjJTyj3iXW.jpg"
+  },
+  {
+    "title": "Practical Magic 2",
+    "urls": [
+      "magnet:?xt=urn:btih:DDE61A11432C292BE34AFB2475CC24CE6C67A5A3"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg"
+  },
+  {
+    "title": "Animals",
+    "urls": [
+      "magnet:?xt=urn:btih:16C345D758C607E94BDBCD70A703BF38BE6252F7"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
+  },
+  {
+    "title": "Matchbox: The Movie",
+    "urls": [
+      "magnet:?xt=urn:btih:CCBB6555B338E67D72D534D25E729A799B782B42"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+  },
+  {
+    "title": "After Impact",
+    "urls": [
+      "magnet:?xt=urn:btih:DF8E21687D1A62FB77F04C08C7B0F3A597847AB7"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fwXkiy9qFbgWoU52LcMnzv8YbQ9.jpg"
+  },
+  {
+    "title": "Black Zombie",
+    "urls": [
+      "magnet:?xt=urn:btih:D42FCEBE3641515FF703030E2A6673CDAB67F63A"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/pDYkgAg0yl3TD9Zl2OiSMP0VPvw.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/gcN59bVBPYIKy8f7dvzPztNrNiJ.jpg"
+  },
+  {
+    "title": "Insidious: Out Of The Further",
+    "urls": [
+      "magnet:?xt=urn:btih:9BA156154CDA5BC0B5CE078450DEEC09234CFD7D"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "urls": [
+      "magnet:?xt=urn:btih:2EE672984434179AA8A7C5D2EBD0A94B38EB2960"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg"
+  },
+  {
+    "title": "Onslaught",
+    "urls": [
+      "magnet:?xt=urn:btih:CBABB4EABA561A2C33E6ECE59348DE9CBC5ADD0F"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/clePZhqOSzNyjfuFBpOrziLEFzb.jpg"
+  },
+  {
+    "title": "Fall 2: Deadpoint",
+    "urls": [
+      "magnet:?xt=urn:btih:7B47CAFCF3F2B99246C74B1B893F45C0FC4DB087"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/j5PqG9rD0aUUIKEkGkWt7AaKnRa.jpg"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "urls": [
+      "magnet:?xt=urn:btih:9097908B2FA628463E730889B0868D416B82848F"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg"
+  },
+  {
+    "title": "Doing Life",
+    "urls": [
+      "magnet:?xt=urn:btih:28D650C9442D1FECB75766B3FF694198B55765E1"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/v0ISFucS8zUoBCS8f06Y8A09UyL.jpg"
+  },
+  {
+    "title": "Stranglehold",
+    "urls": [
+      "magnet:?xt=urn:btih:32BBD70842D767A1594E6102909099B60F0A6469"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/l5qjpG401icYMQC4aaCYZFElD7B.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wboMxtzj5I7Af8PkgdKfLIMjQfh.jpg"
+  },
+  {
+    "title": "Unabomber",
+    "urls": [
+      "magnet:?xt=urn:btih:82E10006C4AC150C38F485EDAA9A21AA7A48AAC8"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
+  },
+  {
+    "title": "Coyote vs. Acme",
+    "urls": [
+      "magnet:?xt=urn:btih:9F4A238978D7FBBC822223138C7566073692BB90"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "urls": [
+      "magnet:?xt=urn:btih:592388870FD8E5C07AE5BB6508E96CF7E0A14B0B"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+  },
+  {
+    "title": "Ice Cream Man",
+    "urls": [
+      "magnet:?xt=urn:btih:4190931D7F68D432893353CE86DB61B6B81156E4"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hyN1E14gNxx8biNBOv1daJrmGkK.jpg"
+  },
+  {
+    "title": "Super Troopers 3",
+    "urls": [
+      "magnet:?xt=urn:btih:3623BB769B1F4466DEC12320931E3FAAD274F501"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg"
+  },
+  {
+    "title": "Scream 7",
+    "urls": [
+      "magnet:?xt=urn:btih:2E8F3276FC4815BCEF12810D7D8E946E4CA2C622"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg"
+  },
+  {
+    "title": "PAW Patrol: The Dino Movie",
+    "urls": [
+      "magnet:?xt=urn:btih:FE5D2B557D6D861121ABCB039748CD7EDD42747B"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg"
+  },
+  {
+    "title": "Moana",
+    "urls": [
+      "magnet:?xt=urn:btih:86028E872EA55DBD9E6D09464EC45A27FB9DAA71"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg"
+  },
+  {
+    "title": "The Rocky Horror Picture Show",
+    "urls": [
+      "magnet:?xt=urn:btih:535EC9BAF71D226315975C53CF021319913226ED"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/idGAfZk98uBkiY4R1qO5fnacanW.jpg"
+  },
+  {
+    "title": "Mother's Pride",
+    "urls": [
+      "magnet:?xt=urn:btih:95151A4BF8D0E0C880D1458B31118DD55894DEBF"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/btcpMbFB6PWiqDz0HlRH9kSGas.jpg"
+  }
+]
