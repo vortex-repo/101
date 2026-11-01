@@ -797,7 +797,7 @@
     "fanart": "https://image.tmdb.org/t/p/original/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
   },
   {
-    "title": "[COLORgold][B][I]>>> Next Page >>>*[/B][/I][/COLOR]",
+    "title": "[COLORgold][B][I]>>> Next Page >>>[/B][/I][/COLOR]",
     "type": "directory",
     "is_dir": true,
     "link": "https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/movies2.json"
