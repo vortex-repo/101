@@ -1143,9 +1143,9 @@
     "fanart": "https://image.tmdb.org/t/p/original/nbETUdyH4qyZdv6vybKi1W7MOw.jpg"
   },
   {
-    "title": "[COLORgold][B][I]>>> Next Page >>>[/B][/I][/COLOR]",
+    "title": "[COLORgold][B][I]>>> Next Page >>>*[/B][/I][/COLOR]",
     "type": "directory",
     "is_dir": true,
-    "link": "https://example.com/tvshows.json"
+    "link": "https://raw.githubusercontent.com/vortex-repo/101/refs/heads/main/movies2.json"
   }
 ]
