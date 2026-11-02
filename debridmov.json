@@ -1,5 +1,13 @@
 [
    {
+    "title": "Resident Evil",
+    "urls": [
+      "magnet:?xt=urn:btih:6D444DEEB1A7E8E6A21FA3BC740CF35809EC7CB2"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg"
+  },
+   {
     "title": "The Otherkind",
     "urls": [
       "magnet:?xt=urn:btih:9DA82CD2469786493D8972C08B9A2767048961B8"
