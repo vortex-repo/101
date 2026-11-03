@@ -1,9 +1,19 @@
 [
    {
+    "title": "Charlie Harper",
+    "urls": [
+      "magnet:?xt=urn:btih:8BAAA3CFB71473C52F0734ABFA86655C5153E301"
+    ],
+    "summary": "Comedy/Romance",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zXlMTtztzq8KfOfqhyHpKYYm5sn.jpg"
+  },
+   {
     "title": "500 Miles",
     "urls": [
       "magnet:?xt=urn:btih:7E5E3F0AA8E951B1E3C6E52263955D6341338A99"
     ],
+    "summary": "Comedy/Drama",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/FhRosui9MSdxdyD3h0skOFhqED.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg"
   },
