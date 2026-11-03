@@ -186,7 +186,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.legacy" name="[COLORgold]Legacy[/COLOR]" version="1.0.2" provider-name="">
+<addon id="plugin.video.legacy" name="[COLORgold]Legacy[/COLOR]" version="1.0.4" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -200,7 +200,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">No Movies Were Harmed During The Making Of This Addon -- Nothing Is Stored Locally -- (Debrid Only)</description>
+	<description lang="en_GB">(This Addon Uses Cached Streams From All-Debrid, Other Services May Work)</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
