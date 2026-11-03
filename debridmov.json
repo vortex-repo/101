@@ -1,5 +1,13 @@
 [
    {
+    "title": "Primetime",
+    "urls": [
+      "magnet:?xt=urn:btih:6052E5B11CAD862A6381308E0A8BB87830D248FB"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg"
+  },
+   {
     "title": "Resident Evil",
     "urls": [
       "magnet:?xt=urn:btih:6D444DEEB1A7E8E6A21FA3BC740CF35809EC7CB2"
