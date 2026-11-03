@@ -1,5 +1,13 @@
 [
    {
+    "title": "500 Miles",
+    "urls": [
+      "magnet:?xt=urn:btih:7E5E3F0AA8E951B1E3C6E52263955D6341338A99"
+    ],
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_face/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg"
+  },
+   {
     "title": "Primetime",
     "urls": [
       "magnet:?xt=urn:btih:6052E5B11CAD862A6381308E0A8BB87830D248FB"
